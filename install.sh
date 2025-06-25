@@ -209,12 +209,12 @@ echo "ANDA HARUS MEMILIKI PANEL PTERODACTYL TERLEBIH DAHULU! APAKAH ANDA MEMPUNY
 
             # Perintah untuk mengunduh dan menginstal tema Enigma
             apt install git
-            cd /var/www && git clone https://github.com/SecretCompany777/enigmas.git
-            mv /var/www/enigmas/enigmasct.zip /var/www/
-            rm -r enigmas
+            cd /var/www && git clone https://github.com/neroxkira/Neroxzx.git
+            mv /var/www/Neroxzx/enigmarain.zip /var/www/
+            rm -r Neroxzx
             apt install unzip
 echo "𝗦𝗜𝗟𝗔𝗛𝗞𝗔𝗡 𝗣𝗜𝗟𝗜𝗛 𝗔"
-            unzip enigmasct.zip         
+            unzip enigmarain.zip         
             echo "𝗣𝗥𝗢𝗦𝗘𝗦 𝗜𝗡𝗦𝗧𝗔𝗟𝗟"
             echo "ᴊɪᴋᴀ ᴀᴅᴀ ᴘɪʟɪʜᴀɴ ᴅɪʙᴀᴡᴀʜ sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʏ"
             sudo mkdir -p /etc/apt/keyrings
