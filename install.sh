@@ -796,8 +796,8 @@ uninstall_theme() {
     # Perintah untuk uninstall tema
     cd /var/www/
     rm -r pterodactyl.zip
-    rm -r enigmarain.zip
-    rm -r Neroxzx
+    rm -r enigmasct.zip
+    rm -r itheme
     rm -r billmodv11.zip
     rm -r IceMinecraftTheme.tar.gz
     rm -r RainFuturistic
